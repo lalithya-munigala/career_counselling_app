@@ -46,8 +46,6 @@ Compare up to three careers side-by-side based on:
 
 ## 🚀 Live Demo
 
-- Improve deployment and scalability for wider student use
-
 👉 [Career Counselling App](https://lalithya-career-counselling.streamlit.app/)
 
 ## 📁 Project Structure
@@ -102,7 +100,7 @@ Career and examination information is stored in JSON files:
 - Improve recommendation accuracy using a more advanced recommendation model
 - Add user profiles and saved career recommendations
 - Add more college and examination information
-- Deploy the application for wider student use
+- Improve deployment and scalability for wider student use
 
 ## 📸 Application Screenshots
 ### 🏠 Home
