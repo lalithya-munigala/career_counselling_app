@@ -58,39 +58,37 @@ career_counselling_app/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 🚀 Getting Started
 1. Clone the repository
 git clone https://github.com/lalithya-munigala/career_counselling_app.git
 cd career_counselling_app
+
 2. Install dependencies
 pip install -r requirements.txt
+
 3. Run the application
 streamlit run app.py
-
 The application will open in your browser.
 
 🧩 How the Career Recommendation Works
-
 The recommender uses tags associated with each career and compares them with tags generated from the user's quiz responses.
-
 The application calculates a matching score based on the overlap between the user's interests and career tags, then presents the top matching careers.
 
 📚 Data
-
 Career and examination information is stored in JSON files:
-
 careers.json — career fields, descriptions, skills, salaries, roadmaps, opportunities, and resources
 exams.json — entrance examination and college information
+
 🔮 Future Improvements
 Add more career fields and career options
 Improve recommendation accuracy using a more advanced recommendation model
 Add user profiles and saved career recommendations
 Add more college and examination information
 Deploy the application for wider student use
+
 👩‍💻 Author
-
 Lalithya Munigala
-
 Computer Science Undergraduate
 BITS Pilani, Hyderabad Campus
 
