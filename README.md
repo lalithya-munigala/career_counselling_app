@@ -52,6 +52,7 @@ career_counselling_app/
 ├── app.py
 ├── careers.json
 ├── exams.json
+├── app-screenshots.png/
 ├── assets/
 ├── requirements.txt
 ├── .gitignore
