@@ -44,6 +44,12 @@ Compare up to three careers side-by-side based on:
 - JSON
 - Git & GitHub
 
+## 🚀 Live Demo
+
+- Improve deployment and scalability for wider student use
+
+👉 [Career Counselling App](https://lalithya-career-counselling.streamlit.app/)
+
 ## 📁 Project Structure
 
 ```text
@@ -88,9 +94,9 @@ The application calculates a matching score based on the overlap between the use
 
 ## 📚 Data
 Career and examination information is stored in JSON files:
-careers.json — career fields, descriptions, skills, salaries, roadmaps, opportunities, and resources
-exams.json — entrance examination and college information
-
+- `careers.json` — career fields, descriptions, skills, salaries, roadmaps, opportunities, and resources
+- `exams.json` — entrance examination and college information
+  
 ## 🔮 Future Improvements
 - Add more career fields and career options
 - Improve recommendation accuracy using a more advanced recommendation model
@@ -115,6 +121,6 @@ exams.json — entrance examination and college information
 ![College & Exam Explorer](app-screenshots.png/college-exam-explorer.png)
 
 ## 👩‍💻 Author
-Lalithya Munigala
-Computer Science Undergraduate
+**Lalithya Munigala**  
+Computer Science Undergraduate  
 BITS Pilani, Hyderabad Campus
