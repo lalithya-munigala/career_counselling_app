@@ -91,5 +91,3 @@ Deploy the application for wider student use
 Lalithya Munigala
 Computer Science Undergraduate
 BITS Pilani, Hyderabad Campus
-
-LinkedIn
