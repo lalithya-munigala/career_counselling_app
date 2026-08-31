@@ -98,6 +98,22 @@ exams.json — entrance examination and college information
 - Add more college and examination information
 - Deploy the application for wider student use
 
+## 📸 Application Screenshots
+### 🏠 Home
+![Home](app-screenshots.png/home.png)
+
+### 🧠 Career Recommender
+![Career Recommender](app-screenshots.png/career-recommender.png)
+
+### ⚖️ Career Comparison
+![Career Comparison](app-screenshots.png/career-comparison.png)
+
+### 🔍 Career Details
+![Career Details](app-screenshots.png/career-details.png)
+
+### 🎓 College & Exam Explorer
+![College & Exam Explorer](app-screenshots.png/college-exam-explorer.png)
+
 ## 👩‍💻 Author
 Lalithya Munigala
 Computer Science Undergraduate
